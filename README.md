@@ -1,0 +1,2 @@
+# OperadoresLogicos
+resolução do exercício
